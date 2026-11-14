@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://khs020227-web.github.io/smartseek-shop/sitemap.xml
